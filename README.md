@@ -1,6 +1,6 @@
 # employee-database project
 
-# Deparments
+# Departments
 an enumeration named Departments that contain four sets of values - FINANCE, HR, IT, and MARKETING
 
 # Person
